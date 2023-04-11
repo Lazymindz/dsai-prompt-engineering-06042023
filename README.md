@@ -9,4 +9,4 @@ If you are interested in learning more about Prompt Engineering, I highly recomm
 
 https://github.com/dair-ai/Prompt-Engineering-Guide
 
-The talk itself if based on the amazing work of Elvis Saravia. I have only localised the content for Nottingham audience, and for a mix of Techincal/Non-Technical group.
+The talk itself is based on the amazing work of Elvis Saravia. I have only localised the content for Nottingham audience, and for a mix of Techincal/Non-Technical group.
